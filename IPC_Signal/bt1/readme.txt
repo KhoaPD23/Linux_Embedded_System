@@ -1,0 +1,1 @@
+Nếu bỏ qua SIGINT, chương trình sẽ không bị gián đoạn hay thoát, nó sẽ tiếp tục chạy như bình thường, vì tín hiệu bị bỏ qua.
